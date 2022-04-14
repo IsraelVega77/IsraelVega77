@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Israel Vega</h1>
-<p align="center">I'm from México and I'm SRE</p>
+<p align="center">I'm from México</p>
 <p align="center">I have a Bachelors in Computer Science from Universidad Autónoma de Querétaro, year 2006</p>
 <p align="center">Currently I'm working as a Software Engineer at <a href="https://www.unosquare.com/?msclkid=812815d5bbb711ecbf6e796a4bf5b8f0">UnoSquare México</p>
 
