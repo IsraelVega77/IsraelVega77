@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Israel Vega</h1>
 <p align="center">I'm from México</p>
-<p align="center">I have a Bachelors in Computer Science from Universidad Autónoma de Querétaro, year 2006</p>
+<p align="center">I have a Bachelors in Computer Science, since 2006</p>
 <p align="center">Currently I'm working as a Software Engineer at <a href="https://www.unosquare.com/?msclkid=812815d5bbb711ecbf6e796a4bf5b8f0">UnoSquare México</p>
 
 <h3 align="left">Connect with me:</h3>
@@ -65,3 +65,9 @@ href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" 
 alt="oracle" width="40" height="40"/> </a> </p>
 
+<br>
+<br>
+<h3 align="left">Some fun music to work ;)</h3>
+<blockquote>
+	<a href="https://open.spotify.com/playlist/0ZlQp28eIjlzHPau3aFxjR?si=5963ebd077ea42b2" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+</blockquote>
