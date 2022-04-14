@@ -16,7 +16,7 @@
 <h3 align="left">Skills:</h3>
 
 <blockquote>
-	<p align="left"><i>I have experience in tecnoligies front end and back end.</i></p>
+	<p align="left"><i>I have experience in technologies front end and back end.</i></p>
 	<p align="left"><i>Critical thinking, decision-making and problem skills.</i></p>
 </blockquote>
 
