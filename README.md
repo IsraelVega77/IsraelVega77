@@ -82,6 +82,11 @@
 <br>
 <h3 align="left">Some fun music to work ;)</h3>
 <blockquote>
+​<style>
+table, th, td {
+  border:none;
+}
+</style>
 <table>
   <tr>
     <th>Reggae</th>
