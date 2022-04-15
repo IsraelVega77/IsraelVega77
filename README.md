@@ -77,9 +77,21 @@
 	
 </p>
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelVega77&layout=compact">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelVega77&layout=compact)](https://github.com/IsraelVega77/github-readme-stats)
+
 <br>
 <h3 align="left">Some fun music to work ;)</h3>
 <blockquote>
-	<a href="https://open.spotify.com/playlist/0ZlQp28eIjlzHPau3aFxjR?si=5963ebd077ea42b2" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<table>
+  <tr>
+    <th>Reggae</th>
+    <th>Grunge</th>
+    <th>Blues</th>
+  </tr>
+    <tr>
+    <td><a href="https://open.spotify.com/playlist/0ZlQp28eIjlzHPau3aFxjR?si=5963ebd077ea42b2" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a></td>
+    <td><a href="https://open.spotify.com/playlist/4QQ4sdcgEVVqH3PaMqLZlC?si=cdddbc5c2e5b4fdd" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a></td>
+    <td><a href="https://open.spotify.com/playlist/5eC0BuB9j3g769b7sLKN5L?si=b86bd86c13cf4956" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a></td>
+  </tr>
+	
 </blockquote>
