@@ -65,7 +65,7 @@ href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" 
 alt="oracle" width="40" height="40"/> </a> </p>
 
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelVega77&layout=compact)](https://github.com/IsraelVega77/github-readme-stats)
 <br>
 <h3 align="left">Some fun music to work ;)</h3>
 <blockquote>
