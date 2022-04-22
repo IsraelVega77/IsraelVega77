@@ -78,7 +78,7 @@
 </p>
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelVega77&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelVega77&theme=blue-green)
 
 <br>
 <h3 align="left">Some fun music to work ;)</h3>
